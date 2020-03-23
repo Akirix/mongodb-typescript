@@ -1,6 +1,6 @@
 {
   "name": "mongodb-typescript",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Hydrate MongoDB documents into TypeScript-defined objects",
   "keywords": [
     "mongodb",
@@ -18,9 +18,10 @@
   },
   "author": "aljazerzen",
   "license": "ISC",
-  "repository": "https://github.com/aljazerzen/mongodb-typescript.git",
+  "repository": "https://github.com/akirix/mongodb-typescript",
   "dependencies": {
-    "class-transformer": "^0.1.9"
+    "class-transformer": "0.2.3",
+    "reflect-metadata": "^0.1.13"
   },
   "peerDependencies": {
     "mongodb": "^3.4.1",
