@@ -20,8 +20,7 @@
   "license": "ISC",
   "repository": "https://github.com/akirix/mongodb-typescript",
   "dependencies": {
-    "class-transformer": "0.2.3",
-    "reflect-metadata": "^0.1.13"
+    "class-transformer": "0.2.3"
   },
   "peerDependencies": {
     "mongodb": "^3.4.1",
